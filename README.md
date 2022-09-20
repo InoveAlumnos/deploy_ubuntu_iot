@@ -117,6 +117,8 @@ $ sudo apt-get install -y tmate
 
 Para utilizarlo lanzamos en la consola el comando “tmate” y deberemos copiar el “ssh” que nos aparece abajo en la barra amarilla. Ese ssh lo compartimos y lo copiamos en nuestra consola y podremos acceder remotamente. Este ssh nos lo debe compartir alguien con acceso al dispositivo en la red del cliente:
 
+![tmate_session](tmate_session.jpg)
+
 
 # Consultas
 alumnos@inove.com.ar
